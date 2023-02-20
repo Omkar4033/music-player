@@ -20,7 +20,7 @@ body{
 }
 .player{
     display: block;
-    background-image: linear-gradient(to bottom,violet,indigo);
+    background-image: linear-gradient(to bottom,aqua,indigo);
     margin: 0px auto;
     padding: 30px;
     border-radius: 16px;
